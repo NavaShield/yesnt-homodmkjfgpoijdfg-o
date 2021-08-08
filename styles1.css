@@ -1,0 +1,24 @@
+p{
+  position: absolute;
+  top: 0%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+div{
+  position: absolute;
+  top: 15%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
+
+div {
+  font-family: myFirstFont;
+}
